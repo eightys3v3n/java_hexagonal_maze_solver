@@ -1,0 +1,21 @@
+20 20
+W W W W W W W W W W W W W W W W W W W W
+ W W M O W W W O O O W W W W O O W W W W
+W W O W W W W W O W W W W O O W W O O W 
+ W O W W O O W W O W W W O W W W W O W W
+W W O W W O O W W O W W O W W W W O W W
+ W W O W O W O O O W W O O W W W O W W W
+W W W O O W W W W O W W O O W W W O W W
+ W W O W W W W W W O W O W O W W W O W W
+W W O W W O O W W W O O W W O O O O W W
+ W O W W O W O W W W W W O W W W W W W W
+W W O W O W O O O O W W W O O O O O O W
+ W W O O W W W W W O O O W W W W W W O W
+W W W O W W W W O O W W W W O O W W O W
+ W W O O O W W O W O W C O O W O O O W W
+W W O W W O O W W O W W W W W O W W W W
+ W W O W W O O W W O W W W W O W W W W W
+W W O W W W O O W W O O O W O O O W W W
+ W O W W W W O W O W W W O O W W O W W W
+W W O O O O O O O O W W O W W W W O W W
+ W W W W W W W W W W W W W W W W W W W W
