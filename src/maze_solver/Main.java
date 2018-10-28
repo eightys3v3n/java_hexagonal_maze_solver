@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 
 
 /**
- * @author Terrence
+ * @author Terrence Plunkett
  */
 public class Main {
 

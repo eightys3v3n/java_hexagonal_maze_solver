@@ -5,7 +5,7 @@ import maze_solver.Maze.HexType;
 
 
 /**
- * @author Terrence
+ * @author Terrence Plunkett
  */
 public class Player {
     Coordinate		  position;

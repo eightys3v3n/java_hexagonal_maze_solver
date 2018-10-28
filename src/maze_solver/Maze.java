@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 
 /**
- * @author Terrence
+ * @author Terrence Plunkett
  */
 public class Maze {
     private ArrayList<HexType> map;

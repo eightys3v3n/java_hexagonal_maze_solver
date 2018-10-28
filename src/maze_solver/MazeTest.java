@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
 
 
 /**
- * @author Terrence
+ * @author Terrence Plunkett
  */
 class MazeTest {
     static Maze maze;

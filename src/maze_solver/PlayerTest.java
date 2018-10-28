@@ -13,7 +13,7 @@ import maze_solver.Maze.HexType;
 
 
 /**
- * @author Terrence
+ * @author Terrence Plunkett
  */
 class PlayerTest {
     static Maze	  maze;

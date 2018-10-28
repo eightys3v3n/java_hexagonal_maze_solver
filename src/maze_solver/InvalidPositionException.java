@@ -1,7 +1,7 @@
 package maze_solver;
 
 /**
- * @author Terrence
+ * @author Terrence Plunkett
  */
 public class InvalidPositionException extends Exception {
     private final Coordinate invalidPosition;
